@@ -4,7 +4,7 @@
 
 # Demo
 
-[http://lab.moogs.io/canvas-particles](http://lab.moogs.io/canvas-particles)
+[https://lab.miguelmota.com/canvas-particles](https://lab.miguelmota.com/canvas-particles)
 
 # License
 
